@@ -90,10 +90,22 @@ Output : -34     (16-50)
 
 ----
 ## Problem 10
-write a program which accept one number from user and return summation of all factor & non factor.  <br />    
+Write a program which accept number from user and display its digits in reverse order.  <br />    
 Test cases :  <br />  
 Input : 2395  
 Output : 5932
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_010.c)
+
+----
+## Problem 11
+Write a program which accept number from user and check whether it is contain 0 or not.  <br />    
+Test cases :  <br />  
+Input : 2395
+Output : There is no zero  
+  
+Input : 230  
+Output : There is zero
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_010.c)
 
