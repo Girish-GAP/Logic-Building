@@ -44,3 +44,58 @@ Output : 2   4   6   12  18
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_004.c)
 
 ----
+## Problem 5
+Write a program which accept one number from user and display its multiplication of factors.  <br />    
+Test cases :  <br />  
+Input : 12  
+Output : 144
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_005.c)
+
+----
+## Problem 6
+write a program which accept one number from user and display its factors in decresing order.  <br />    
+Test cases :  <br />  
+Input : 12  
+Output : 6   4   3   2   1
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_006.c)
+
+----
+## Problem 7
+write a program which accept one number from user and print all non factors of that number.  <br />    
+Test cases :  <br />  
+Input : 12  
+Output : 5   7   8   9   10  11
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_007.c)
+
+----
+## Problem 8
+ statement : write a program which accept one number from user and return summation of all its non factor.  <br />    
+Test cases :  <br />  
+Input  : 12  
+Output : 50
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_008.c)
+
+----
+## Problem 9
+write a program which accept one number from user and return summation of all factor & non factor.  <br />    
+Test cases :  <br />  
+Input  : 12  
+Output : -34     (16-50)
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_009.c)
+
+----
+## Problem 10
+write a program which accept one number from user and return summation of all factor & non factor.  <br />    
+Test cases :  <br />  
+Input : 2395  
+Output : 5932
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_010.c)
+
+----
+
