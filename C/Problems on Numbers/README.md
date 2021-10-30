@@ -64,7 +64,7 @@ Output : 144
 
 ----
 ## Problem 6
-write a program which accept one number from user and display its factors in decresing order.  <br />    
+Write a program which accept one number from user and display its factors in decresing order.  <br />    
 Test cases :  <br />  
 <pre>
 Input  : 12  
@@ -75,7 +75,7 @@ Output : 6   4   3   2   1
 
 ----
 ## Problem 7
-write a program which accept one number from user and print all non factors of that number.  <br />    
+Write a program which accept one number from user and print all non factors of that number.  <br />    
 Test cases :  <br /> 
 <pre>
 Input  : 12  
@@ -86,7 +86,7 @@ Output : 5   7   8   9   10  11
 
 ----
 ## Problem 8
- statement : write a program which accept one number from user and return summation of all its non factor.  <br />    
+Write a program which accept one number from user and return summation of all its non factor.  <br />    
 Test cases :  <br />  
 <pre>
 Input  : 12  
@@ -97,7 +97,7 @@ Output : 50
 
 ----
 ## Problem 9
-write a program which accept one number from user and return summation of all factor & non factor.  <br />    
+Write a program which accept one number from user and return summation of all factor & non factor.  <br />    
 Test cases :  <br />  
 <pre>
 Input  : 12  
@@ -221,7 +221,7 @@ Input : 8440     Output :  16  (8-2)
 
 ----
 ## Problem 20
-write a program which accept radius of circle from user and calculate its area. Consider value fo PI as 3.14 (Area = PI * Radius * Radius) <br />    
+Write a program which accept radius of circle from user and calculate its area. Consider value fo PI as 3.14 (Area = PI * Radius * Radius) <br />    
 Test cases :  <br />  
 <pre>
 Input : 5.3    Output : 88.2026  
@@ -232,7 +232,7 @@ Input : 10.4   Output : 339.6224
 
 ----
 ## Problem 21
-write a program which accept width and height of rectangle from user and calculate its area. (Area = Width * Height) <br />    
+Write a program which accept width and height of rectangle from user and calculate its area. (Area = Width * Height) <br />    
 Test cases :  <br />  
 <pre>
 Input : 5.3    Output : 88.2026  
