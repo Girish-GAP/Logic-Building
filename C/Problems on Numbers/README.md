@@ -15,10 +15,10 @@ Output : 12  12  12  12  12
 Accept number from user and check whether number is even or odd.  <br />    
 Test cases :  <br />  
 <pre>
-Input : 5            
+Input  : 5            
 Ouput  : Odd   
   
-Input : 4            
+Input  : 4            
 Output : Even  
 </pre>
 
@@ -56,7 +56,7 @@ Output : 2   4   6   12  18
 Write a program which accept one number from user and display its multiplication of factors.  <br />    
 Test cases :  <br />  
 <pre>
-Input : 12  
+Input  : 12  
 Output : 144
 </pre>
 
@@ -67,7 +67,7 @@ Output : 144
 write a program which accept one number from user and display its factors in decresing order.  <br />    
 Test cases :  <br />  
 <pre>
-Input : 12  
+Input  : 12  
 Output : 6   4   3   2   1
 </pre>
 
@@ -78,7 +78,7 @@ Output : 6   4   3   2   1
 write a program which accept one number from user and print all non factors of that number.  <br />    
 Test cases :  <br /> 
 <pre>
-Input : 12  
+Input  : 12  
 Output : 5   7   8   9   10  11
 </pre>
 
@@ -111,7 +111,7 @@ Output : -34     (16-50)
 Write a program which accept number from user and display its digits in reverse order.  <br />    
 Test cases :  <br />  
 <pre>
-Input : 2395  
+Input  : 2395  
 Output : 5932
 </pre>
 
@@ -122,10 +122,10 @@ Output : 5932
 Write a program which accept number from user and check whether it is contain 0 or not.  <br />    
 Test cases :  <br />  
 <pre>
-Input : 2395
+Input  : 2395
 Output : There is no zero  
   
-Input : 230   
+Input  : 230   
 Output : There is zero
 </pre>
 
