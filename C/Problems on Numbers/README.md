@@ -18,7 +18,7 @@ Ouput  : Odd
 Input : 4            
 Output : Even  
 
-[Solution](https://github.com/Girish-GAP/Logic-Building-using-C-programing/blob/main/Problems%20on%20Numbers/Problem_002.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_002.c)
 
 ----
 
@@ -31,6 +31,6 @@ Ouput : 0    2   4   6   8   10  12
 Input : -5  
 Ouput : 0    2   4   6   8   
 
-[Solution](https://github.com/Girish-GAP/Logic-Building-using-C-programing/blob/main/Problems%20on%20Numbers/Problem_003.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_003.c)
 
 ----
