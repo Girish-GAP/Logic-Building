@@ -104,10 +104,91 @@ Test cases :  <br />
 Input : 2395
 Output : There is no zero  
   
-Input : 230  
+Input : 230   
 Output : There is zero
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_010.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_011.c)
+
+----
+## Problem 12
+Write a program which accept number form user and count frequency of 2 in  it.  <br />    
+Test cases :  <br />  
+Input : 2295    Output : 2  
+Input : 1080    Output : 0  
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_012.c)
+
+----
+## Problem 13
+Write a program which accept number from user and count frequency of 4 in it.  <br />    
+Test cases :  <br />  
+Input : 2395     Output : 0  
+Input : 9440     Output : 2
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_013.c)
+
+----
+## Problem 14
+Write a program which accept number from user and count frequncy of such a digits which are less than 6.  <br />    
+Test cases :  <br />  
+Input :  2395      Output : 3  
+Input : -96672     Output : 1
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_014.c)
+
+----
+## Problem 15
+Write a program which accept number from user and return the count of even digits  <br />    
+Test cases :  <br />  
+Input :  2395     Output : 1  
+Input : -1018     Output : 2
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_015.c)
+
+----
+## Problem 16
+Write a program which accept number from user and return the count of odd digits.  <br />    
+Test cases :  <br />  
+Input : 2395     Output : 3  
+Input : 1018     Output : 2
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_016.c)
+
+----
+## Problem 17
+Write a program which accept number from user and return the count of digits in between 3 & 7.  <br />    
+Test cases :  <br />  
+Input : 4521     Output : 2  
+Input : 1018     Output : 0
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_017.c)
+
+----
+## Problem 18
+Write a program which accept number form uer and return the multiplication of its all digits.  <br />    
+Test cases :  <br />  
+Input : 2395     Output : 270  
+Input : 9440     Output : 144
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_018.c)
+
+----
+## Problem 19
+Write a program which accept number from user and return difference between summation of even digits and summation of odd digits.  <br />    
+Test cases :  <br />  
+Input : 2395     Output : -15 (2-17)  
+Input : 8440     Output :  16  (8-2)
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_019.c)
+
+----
+## Problem 20
+write a program which accept radius of circle from user and calculate its area. Consider value fo PI as 3.14 (Area = PI * Radius * Radius) <br />    
+Test cases :  <br />  
+Input : 5.3      Output : 88.2026  
+Input : 10.4     Output : 339.6224
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_020.c)
 
 ----
 
