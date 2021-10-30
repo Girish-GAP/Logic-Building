@@ -34,3 +34,13 @@ Ouput : 0    2   4   6   8
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_003.c)
 
 ----
+
+## Problem 4
+Write a program which accept number from user and print even factors of that number (excluding itself).  <br />    
+Test cases :  <br />  
+Input  : 36 
+Output : 2   4   6   12  18 
+
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_004.c)
+
+----
