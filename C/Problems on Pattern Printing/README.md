@@ -435,8 +435,7 @@ Output : 1   2   3   4   5
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_030.c)
 
-
-
+----
 
 
 
