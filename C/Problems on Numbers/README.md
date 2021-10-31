@@ -235,8 +235,7 @@ Input : 10.4   Output : 339.6224
 Write a program which accept width and height of rectangle from user and calculate its area. (Area = Width * Height) <br />    
 Test cases :  <br />  
 <pre>
-Input : 5.3    Output : 88.2026  
-Input : 10.4   Output : 339.6224
+Input :  5.3   9.78      Output : 51.8340
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_021.c)
@@ -280,7 +279,7 @@ Write a program which accept range from user and display all numbers in between 
 Test cases :  <br />  
 <pre>
 Input : 23   28     Output : 23 24 25 26 27 28
-Input : 10   10     Output : 101
+Input : 10   10     Output : 10
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_025.c)
@@ -309,7 +308,7 @@ Input : 10   18      Output : 126
 
 ----
 ## Problem 28
-Write a program which accept range from user and return addition of all even numbers in between that range. (Range should contains positive numbers only) <br />    
+Write a program which accept range from user and return addition of all even numbers in between that range. (Range should contain positive numbers only) <br />    
 Test cases :  <br />  
 <pre>
 Input : 23   30      Output : 108
@@ -320,18 +319,7 @@ Input : 10   18      Output : 70
 
 ----
 ## Problem 29
-Write a program which accept range from user and return addition of all even numbers in between that range. (Range should contains positive numbers only) <br />    
-Test cases :  <br />  
-<pre>
-Input : 23   30      Output : 108
-Input : 10   18      Output : 70
-</pre>
-
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_029.c)
-
-----
-## Problem 30
-Write a program which accept range from user and return addition of all even numbers in between that range. (Range should contains positive numbers only) <br />    
+Write a program which accept range from user and display all numbers between that range in reverse order. <br />    
 Test cases :  <br />  
 <pre>
 Input : 23   28      Output : 28 27  26  25  24  23
@@ -339,7 +327,7 @@ Input : 10   10      Output : 10
 Input : -3   2       Output : 2   1   0   -1  -2  -3
 </pre>
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_030.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/Problem_029.c)
 
 ----
 
