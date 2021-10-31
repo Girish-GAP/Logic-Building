@@ -178,10 +178,11 @@ Output :  A   A   A   A   A
 Accept number from user and display below pattern.  <br />    
 Test cases:   <br />    
 <pre>
-Input  : iRow = 3     iCol = 5
-Output :  A   A   A   A   A
-          B   B   B   B   B
-          C   C   C   C   C
+Input  : iRow = 4     iCol = 5
+Output : 4   4   4   4   4
+         3   3   3   3   3
+         2   2   2   2   2
+         1   1   1   1   1
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_014.c)
@@ -191,11 +192,10 @@ Output :  A   A   A   A   A
 Accept number from user and display below pattern  <br />    
 Test cases :  <br />  
 <pre>
-Input  : iRow = 4     iCol = 5
-Output :  4   4   4   4   4
-          3   3   3   3   3
-          2   2   2   2   2
-          1   1   1   1   1
+Input  : iRow = 3     iCol = 4
+Output : 1   2   3   4
+         5   6   7   8
+         9   10  11  12
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_015.c)
@@ -206,10 +206,11 @@ Output :  4   4   4   4   4
 Accept number from user and display below pattern  <br />    
 Test cases :  <br />  
 <pre>
-Input  : iRow = 3     iCol = 4
-Output : 1   2   3   4
-         5   6   7   8
-         9   10  11  12
+Input  : iRow = 4     iCol = 4
+Output : *   #   #   #
+         *   *   #   #
+         *   *   *   #
+         *   *   *   *
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_016.c)
@@ -221,10 +222,10 @@ Accept number from user and display below pattern <br />
 Test cases :  <br />  
 <pre>
 Input  : iRow = 4     iCol = 4
-Output : *   #   #   #
-         *   *   #   #
-         *   *   *   #
-         *   *   *   *
+Output :  *   *   *   *
+          *   *   *   #
+          *   *   #   #
+          *   #   #   #
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_017.c)
@@ -232,21 +233,6 @@ Output : *   #   #   #
 ----
 
 ## Problem 18
-Accept number from user and display below pattern <br />    
-Test cases :  <br />  
-<pre>
-Input  : iRow = 4     iCol = 4
-Output :  *   *   *   *
-          *   *   *   #
-          *   *   #   #
-          *   #   #   #
-</pre>
-
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_018.c)
-
-----
-
-## Problem 19
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -258,11 +244,11 @@ Output :  $   *   *   *   *
           *   *   *   *   $
 </pre>
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_019.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_018.c)
 
 ----
 
-## Problem 20
+## Problem 19
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -274,6 +260,21 @@ Output :  *   *   *   *   *
           *   *   *   *   *
 </pre>
 
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_019.c)
+
+----
+
+## Problem 20
+Accept number from user and display below pattern <br />    
+Test cases :  <br />  
+<pre>
+Input  : iRow = 4     iCol = 4
+Output :  1   2   3   4
+          1   *   *   4
+          1   *   *   4
+          1   2   3   4
+</pre>
+
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_020.c)
 
 ----
@@ -283,10 +284,10 @@ Accept number from user and display below pattern. <br />
 Test cases :  <br />  
 <pre>
 Input  : iRow = 4     iCol = 4
-Output :  1   2   3   4
-          1   *   *   4
-          1   *   *   4
-          1   2   3   4
+Output : *
+         *   *
+         *   *   *
+         *   *   *   *
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_021.c)
@@ -298,10 +299,10 @@ Accept number from user and display below pattern. <br />
 Test cases :  <br />  
 <pre>
 Input  : iRow = 4     iCol = 4
-Output : *
-         *   *
+Output : *   *   *   *
          *   *   *
-         *   *   *   *
+         *   *
+         *
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_022.c)
@@ -309,21 +310,6 @@ Output : *
 ----
 
 ## Problem 23
-Accept number from user and display below pattern <br />    
-Test cases :  <br />  
-<pre>
-Input  : iRow = 4     iCol = 4
-Output : *   *   *   *
-         *   *   *
-         *   *
-         *
-</pre>
-
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_023.c)
-
-----
-
-## Problem 24
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -335,12 +321,12 @@ Output :  $   *   *   *   *
           #   #   #   #   $
 </pre>
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_024.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_023.c)
 
 ----
 
-## Problem 25
-Accept number from user and display below pattern. <br />    
+## Problem 24
+Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
 Input  : iRow = 6     iCol = 6
@@ -352,6 +338,21 @@ Output : *   *   *   *   *   *
          *   *   *   *   *   *
 </pre>
 
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_024.c)
+
+----
+
+## Problem 25
+Accept number from user and display below pattern. <br />    
+Test cases :  <br />  
+<pre>
+Input  : iRow = 4     iCol = 4
+Output : 1   2   3   4
+             2   3   4
+                 3   4
+                     4
+</pre>
+
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_025.c)
 
 ----
@@ -361,10 +362,10 @@ Accept number from user and display below pattern. <br />
 Test cases :  <br />  
 <pre>
 Input  : iRow = 4     iCol = 4
-Output : 1   2   3   4
-             2   3   4
-                 3   4
-                     4
+Output : *   *   *   #
+         *   *   #   *
+         *   #   *   *
+         #   *   *   *
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_026.c)
@@ -376,10 +377,10 @@ Accept number from user and display below pattern. <br />
 Test cases :  <br />  
 <pre>
 Input  : iRow = 4     iCol = 4
-Output : *   *   *   #
-         *   *   #   *
-         *   #   *   *
-         #   *   *   *
+Output :  *   *   *   #
+          *   *   #   @
+          *   #   @   @
+          #   @   @   @
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_027.c)
@@ -387,21 +388,6 @@ Output : *   *   *   #
 ----
 
 ## Problem 28
-Accept number from user and display below pattern. <br />    
-Test cases :  <br />  
-<pre>
-Input  : iRow = 4     iCol = 4
-Output :  *   *   *   #
-          *   *   #   @
-          *   #   @   @
-          #   @   @   @
-</pre>
-
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_028.c)
-
-----
-
-## Problem 29
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -414,11 +400,11 @@ Output :  *   *   *   *   *   *
           *   *   *   *   *   *
 </pre>
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_029.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_028.c)
 
 ----
 
-## Problem 30
+## Problem 29
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -431,11 +417,11 @@ Output : *   *   *   *   *   *
          *   *   *   *   *   *
 </pre>
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_030.c)
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_029.c)
 
 ----
 
-## Problem 31
+## Problem 30
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -447,12 +433,7 @@ Output : 1   2   3   4   5
          1   3   3   4   5
 </pre>
 
-[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_031.c)
-
-
-
-
-
+[Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_030.c)
 
 
 
