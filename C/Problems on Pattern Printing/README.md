@@ -59,7 +59,7 @@ Output : 2  4   6   8   10  12  14  16
 
 ----
 
-## Problem 5
+## Problem 6
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -71,7 +71,7 @@ Output : 2  4   6   8   10  12  14  16
 
 ----
 
-## Problem 6
+## Problem 7
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -84,7 +84,7 @@ Output : *   *   *
 
 ----
 
-## Problem 7
+## Problem 8
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -99,7 +99,7 @@ Output :  1   2   3
 
 ----
 
-## Problem 8
+## Problem 9
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -113,7 +113,7 @@ Output : 5   4   3   2   1
 
 ----
 
-## Problem 9
+## Problem 10
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -127,7 +127,7 @@ Output : *   #   *   #
 
 ----
 
-## Problem 10
+## Problem 11
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -141,7 +141,7 @@ Output : 1   1   1   1
 
 ----
 
-## Problem 11
+## Problem 12
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -156,7 +156,7 @@ Output : A   B   C   D
 
 ----
 
-## Problem 12
+## Problem 13
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -171,7 +171,7 @@ Output :  A   B   C   D
 
 ----
 
-## Problem 13  
+## Problem 14
 Accept number from user and display below pattern.  <br />    
 Test cases:   <br />    
 <pre>
@@ -184,7 +184,7 @@ Output :  A   A   A   A   A
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_014.c)
 
 ----
-## Problem 14
+## Problem 15
 Accept number from user and display below pattern  <br />    
 Test cases :  <br />  
 <pre>
@@ -199,7 +199,7 @@ Output :  4   4   4   4   4
 
 ----
 
-## Problem 15
+## Problem 16
 Accept number from user and display below pattern  <br />    
 Test cases :  <br />  
 <pre>
@@ -213,7 +213,7 @@ Output : 1   2   3   4
 
 ----
 
-## Problem 16
+## Problem 17
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -228,7 +228,7 @@ Output : *   #   #   #
 
 ----
 
-## Problem 17
+## Problem 18
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -243,7 +243,7 @@ Output :  *   *   *   *
 
 ----
 
-## Problem 18
+## Problem 19
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -259,7 +259,7 @@ Output :  $   *   *   *   *
 
 ----
 
-## Problem 19
+## Problem 20
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -275,7 +275,7 @@ Output :  *   *   *   *   *
 
 ----
 
-## Problem 20
+## Problem 21
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -290,7 +290,7 @@ Output :  1   2   3   4
 
 ----
 
-## Problem 21
+## Problem 22
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -305,7 +305,7 @@ Output : *
 
 ----
 
-## Problem 22
+## Problem 23
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -320,7 +320,7 @@ Output : *   *   *   *
 
 ----
 
-## Problem 23
+## Problem 24
 Accept number from user and display below pattern <br />    
 Test cases :  <br />  
 <pre>
@@ -336,7 +336,7 @@ Output :  $   *   *   *   *
 
 ----
 
-## Problem 24
+## Problem 25
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -353,7 +353,7 @@ Output : *   *   *   *   *   *
 
 ----
 
-## Problem 25
+## Problem 26
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -368,7 +368,7 @@ Output : 1   2   3   4
 
 ----
 
-## Problem 26
+## Problem 27
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -383,7 +383,7 @@ Output : *   *   *   #
 
 ----
 
-## Problem 27
+## Problem 28
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -398,7 +398,7 @@ Output :  *   *   *   #
 
 ----
 
-## Problem 28
+## Problem 29
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -415,7 +415,7 @@ Output :  *   *   *   *   *   *
 
 ----
 
-## Problem 29
+## Problem 30
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
@@ -432,7 +432,7 @@ Output : *   *   *   *   *   *
 
 ----
 
-## Problem 30
+## Problem 31
 Accept number from user and display below pattern. <br />    
 Test cases :  <br />  
 <pre>
