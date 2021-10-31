@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 // Problem statement : Write a program which accept range from user and return addition of all even numbers
-//                     in between that range. (Range should contains positive numbers only)
+//                     in between that range. (Range should contain positive numbers only)
 //
 // Test cases:
 // Input : 23   30      Output : 108
