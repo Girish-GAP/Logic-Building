@@ -4,4 +4,7 @@ In this repository, I will cover the basics problem statements which help to bui
 
 [Problems on Numbers ](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/README.md)
 
+[Problems on Pattern Printing](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Numbers/README.md)
+
+
 ------------------------------------------------------------
