@@ -1,4 +1,4 @@
-# Description of Problems Pattern Printing :
+# Description of Problems on Pattern Printing :
 ------------------
 ## Problem 1  
 Accept number from user and display below pattern.  <br />    
