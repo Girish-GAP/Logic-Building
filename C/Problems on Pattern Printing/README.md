@@ -95,7 +95,6 @@ Input  : Input  : iRow = 3   iCol = 5
 Output : 5   4   3   2   1
          5   4   3   2   1
          5   4   3   2   1
-Output : 
 </pre>
 
 [Solution](https://github.com/Girish-GAP/Logic-Building/blob/main/C/Problems%20on%20Pattern%20Printing/Problem_008.c)
